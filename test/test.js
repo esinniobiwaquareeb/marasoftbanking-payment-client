@@ -1,0 +1,10 @@
+// GetBanks(enc_key);
+// CreateTransfer(
+//   "MSFT_Enc_DRPW6IDANW6TLAYCFGBYJSSRKAD30HS",
+//   "100",
+//   "0123456789",
+//   "057",
+//   "Test",
+//   "123456789",
+//   "NGN"
+// );
